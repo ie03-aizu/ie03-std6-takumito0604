@@ -1,1 +1,2 @@
-# ie03-std6-takumito0604
+# hello-world
+Template for Hello World tutorial
